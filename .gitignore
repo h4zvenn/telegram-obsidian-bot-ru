@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
